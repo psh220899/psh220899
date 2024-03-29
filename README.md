@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=parik&color=yellow)
+![Profile Views](https://komarev.com/ghpvc/?username=parik&color=yellowgreen)
 <!--
 **psh220899/psh220899** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
